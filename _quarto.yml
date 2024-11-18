@@ -1,0 +1,19 @@
+project:
+    type: book
+
+
+book: 
+  title: "community health notebook"
+  author: "Dr Deepak Varughese"
+  chapters: 
+   - index.qmd
+   - intro.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

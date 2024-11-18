@@ -1,0 +1,23 @@
+---
+title: "Welcome"
+about:
+  template: marquee
+---
+
+Community Health can be complex. The word "Community Health" sometimes means different things to different people. It can involve different departments and disciplines. It takes a huge inter-disciplinary effort to work towards Community Health.
+
+Community Health Medicine as understood in the Indian Context largely involves the knowledge of both Public Health and General Practice Principles.
+
+It can involve direct individual patient care at the primary and secondary care level. This includes the basic Out Patient clinic management of common diseases.
+
+It can also also involve population level concepts like epidemiology nutrition, immunization, health policy, data management , health system strengthing and the like.
+
+Regardless of one's views on Community Health , the practice of Community Health usually involves a core skillset that can be used in various settings.
+
+This website aims at creating a easy to use resource for all things Community Health.
+
+This book is written for everyone working towards a healthy community. It is however written by a medical doctor working in the Low and Middle Income Setting hence much of the book may reflect this position. Much of the content was written keeping in mind the Indian Medical Student however it can be used by anybody involved in Community Health including epidemiologists, public health practitioners and researchers. We hope to have something for everyone.
+
+::: callout-note
+This website was made almost entirely using the Quarto package in the R Programming language (with some additional html and css styling.
+:::

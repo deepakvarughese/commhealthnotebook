@@ -1,0 +1,25 @@
+---
+project: 
+type: book
+
+book: 
+  title: "community health notebook"
+  author: "Dr Deepak Varughese"
+  chapters: 
+   - index.qmd
+   - intro.qmd
+---
+
+## The Team 
+
+**Dr Deepak Thomas Varughese**
+
+MBBS, MD Community Medicine, PGDip(Family Medicine), CCPPM(Pain and Palliative Medicine
+
+![](profile.jpg){width="225"}
+
+Deepak is an Assistant Professor in Community Health. He completed his MD in Community Medicine as well as his Post Graduate Diploma in Family Medicine at the Christian Medical College, Vellore. He has experience and training in Pain and Palliative Medicine.
+
+His current areas of research interest include Climate Change and Health as well as the use of Geographical Information Systems.
+
+He is the founder of the website and started it in response to growing need among students for relevant up-to-date material in the study of Community Health.
