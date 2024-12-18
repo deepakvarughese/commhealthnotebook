@@ -4,6 +4,8 @@ about:
   template: marquee
 ---
 
+# Welcome {.unnumbered}
+
 Community Health can be complex. The word "Community Health" sometimes means different things to different people. It can involve different departments and disciplines. It takes a huge inter-disciplinary effort to work towards Community Health.
 
 Community Health Medicine as understood in the Indian Context largely involves the knowledge of both Public Health and General Practice Principles.

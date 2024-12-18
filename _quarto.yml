@@ -1,13 +1,48 @@
 project:
     type: book
 
+book:
+  title: "Community Health Notebook"
+  chapters:
+    - index.qmd
+    - part: "Prevention"
+      chapters:
+        - levelsofprevention.qmd
+        - criteria_for_screening.qmd
+        - validity_of_Screening.qmd
+        - iceberg_of_disease.qmd
+        - lead_time_bias.qmd
+        - mass_screening_highrisk.qmd
+    - part: "Immunization"
+      chapters:
+        - estimating_vaccine_coverage.qmd
+        - types_of_vaccines.qmd
+        - cold_chain.qmd
+        - vaccine_schedule.qmd
+        - missed_vaccines.qmd
+        - site_of_vaccination.qmd
+        - aefi.qmd
+        - systems_to_ensure_vaccine_stocks.qmd
+        - international_vaccine_programmes.qmd
+        - vaccine_vial_monitoring.qmd
+    - part: "Nutrition"
+      chapters:
+        - food_plate.qmd
+        - importance_of_local_and_appropriate_advice.qmd
+        - estimating_caloric_requirement.qmd
+        - estimating_protein_requirement.qmd
+        - diet_in_diabetes.qmd
+        - diet_in_hypertension.qmd
+    - part: "Biostatistics"
+      chapters:
+        - inferential_vs_descriptive_stats.qmd
+        - measures_of_central_tendency.qmd
+        - measures_of_deviation.qmd
+        - sampling_techniques.qmd
+        - standard_errors_and_ci.qmd
+        - hypothesis_and_null_hypothesis.qmd
+        - hypothesis_testing.qmd
 
-book: 
-  title: "community health notebook"
-  author: "Dr Deepak Varughese"
-  chapters: 
-   - index.qmd
-   - intro.qmd
 
 format:
   html:

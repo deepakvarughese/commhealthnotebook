@@ -10,7 +10,7 @@ book:
    - intro.qmd
 ---
 
-## The Team 
+## The Team
 
 **Dr Deepak Thomas Varughese**
 
