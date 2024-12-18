@@ -1,3 +1,31 @@
 ---
-title: "levels_of_prevention"
+title: "The Natural History of Disease and Levels of Prevention"
+
+author: Dr Deepak Varughese, MD
 ---
+
+Getting sick is probably one thing that everyone would like to avoid. Sickness feels terrible, costs a lot of money and can even be fatal. The prevention of disease sounds perfect but almost Utopian.
+
+When we look at various disease processes and the impact it has on humanity on the whole , the problem seems too large to solve. Surely it is impossible to prevent disease. One way out of this mindset would be to break down the problem into smaller parts. Distinguishing between different "levels" of prevention helps us break the problem into smaller parts and achieve some level of prevention.
+
+Classically all diseases follow a similar natural history:
+
+*First, the introduction of the risk factors -*
+
+Risk factors for disease are disease are those factors that increase the odds of the patient getting a disease. For example , a person who smokes is at higher risk for getting lung cancer. A person with minimal physical activity and sedentary lifestyle can be at a higher risk for cardiovascular disease.
+
+It is important to keep in mind that not all risk factors are about bad choices. Overcrowding is a risk factor for TB. Overcrowding is commonly a consequence of poor financial status, which in turn can be merely a function of where a person is born. Understanding risk factors can be complex.
+
+A handy way to classify risk factors would be to divide them into modifiable and non-modifiable risk factors.
+
+Non-Modifiable Risk Factors are typically factors like age, biological sex , blood group and the like. Some diseases are more common in the elderly, but there does not really exist a way to prevent ageing obviously. Identifying non-modifiable risk factors cannot help us change the risk factor but can help us provide more services to people with that particular risk factor.
+
+Modifiable Risk Factors would be things such as substance use or lifestyle. These factors could infact be stopped. Adequate counselling, smoking cessations clinics, alcohol de-addiction centres, increasing physical activities etc could all be ways to change these modifiable factors.
+
+**Intervening in the disease process by preventing the onset of the risk factor is referred to as Primodial Prevention.**
+
+**Intervention of the disease process by removing an existing risk factor is referred to as Primary Prevention.**
+
+##### *Second , The beginning of the disease*
+
+Once a risk factor is present in place for a long enough time, the next natural progression could be the onset of the disease itself. The disease may not initially be apparent. The disease could start with a
