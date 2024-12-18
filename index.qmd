@@ -1,4 +1,8 @@
 ---
+project:
+  type: book
+
+book:
 title: "Welcome"
 about:
   template: marquee
